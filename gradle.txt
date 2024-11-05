@@ -1,0 +1,6 @@
+android {
+    ...
+    viewBinding {
+        enabled = true
+    }
+}

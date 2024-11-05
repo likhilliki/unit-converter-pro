@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Unit Converter</string>
+	<string-array name="conversion_options">
+		<item>Kilometers to Miles</item>
+		<item>Kilograms to Pounds</item>
+		<item>Celsius to Fahrenheit</item>
+	</string-array>
+</resources>
